@@ -5,7 +5,6 @@ Computer Architecture; Branch Prediction
 File Parsing, 
 Local Predictor, Global Predictors, Tournament Predictors
 
-The Tournament predictor helps 
 
 #Output:
 My Report can be found at the link:
