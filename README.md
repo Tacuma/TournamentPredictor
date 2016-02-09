@@ -50,11 +50,14 @@ For more on Branch Prediction: https://en.wikipedia.org/wiki/Branch_predictor
 https://github.com/Tacuma/Explosion/files/122505/MAINTENANCE.PROJECT.pdf
 
 Branch Predictor
+
 In this project, you will implement the simulator of a tournament branch predictor and execute it with various parameters on a program trace. Your goal is to find out the prediction accuracy for various combinations of predictor parameters.
 The following paramaters should be considered:
 
 •	Total amount of storage used for predictors (4/16/64/256/1024/4096Kbits). The global predictor and 2-level local predictor should share the storage evenly.
+
 •	Number of bits per predictor (2/3).
+
 •	Length of tracked branch history (2/4/8). Use the same numer fo both the global and local predictor.
 The format of each line in the trac files is as follow:
     Instruction # : PC (in Hex) : Instruction type : Execution 
