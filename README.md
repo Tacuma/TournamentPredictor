@@ -40,8 +40,9 @@ https://github.com/Tacuma/TournamentPredictor/files/122539/Report.docx
 	20 : fea8 : C : 0
 	
 ##### Each line of the input approximates an assembly language instruction eg. MIPS. 
-      We only concern ourselves with the instructions labeled B. The Tournament predictor
-
+##### We only concern ourselves with the instructions labeled B. The Tournament predictor's purpose is help reduce
+#####branch penalties in Instruction Level Parallism by predicting whether an assembly language branch instruction is taken or not taken.
+#####For more on Branch Prediction: https://en.wikipedia.org/wiki/Branch_predictor
 
 
 #Description:
