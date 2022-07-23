@@ -1,18 +1,18 @@
-#Tournament Predictor
+# Tournament Predictor
 
-#Data Structurs/Concepts Used:
+# Data Structurs/Concepts Used:
 Computer Architecture; Branch Prediction
 File Parsing, 
 Local Predictor, Global Predictors, Tournament Predictors
 
 
-#Output:
+# Output:
 My Report can be found at the link:
 https://github.com/Tacuma/TournamentPredictor/files/122539/Report.docx
 
 
 	
-####inp.txt
+#### inp.txt
 ##### This represents a sample of the entirety of the input found here:
 ##### https://github.com/Tacuma/TournamentPredictor/files/122548/trace.txt
 
@@ -44,7 +44,7 @@ branch penalties in Instruction Level Parallism by predicting whether an assembl
 For more on Branch Prediction: https://en.wikipedia.org/wiki/Branch_predictor
 
 
-#Description:
+# Description:
  MAINTENANCE  PROJECT.pdf
 https://github.com/Tacuma/Explosion/files/122505/MAINTENANCE.PROJECT.pdf
 
